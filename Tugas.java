@@ -1,6 +1,6 @@
 class Tugas {
     public static void main(String[] args) {
-        tambahDua_ori();
+        System.out.println("run something here...");
     }
 
     static void getFirstChar() {
